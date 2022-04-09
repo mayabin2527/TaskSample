@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace TaskSample
@@ -8,6 +9,7 @@ namespace TaskSample
     {
         static void Main(string[] args)
         {
+            //https://www.cnblogs.com/zhaoshujie/p/11082753.html
             //方式一、new Task 无返回值
             var task1 = new Task(() =>
             {
@@ -48,8 +50,15 @@ namespace TaskSample
             {
                 Console.WriteLine("Task任务并行 3");
             }));
+            //方式四、直接异步的方法
+            Task.Factory.StartNew(() => TaskMethod("Task 3"));
 
             Console.WriteLine("Hello World!");
+        }
+        static void TaskMethod(string name)
+        {
+            Console.WriteLine("Task {0} is running on a thread id {1}. Is thread pool thread: {2}",
+                              name, Thread.CurrentThread.ManagedThreadId, Thread.CurrentThread.IsThreadPoolThread);
         }
     }
 }

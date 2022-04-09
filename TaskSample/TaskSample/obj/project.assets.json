@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ma_yabin/Projects/TaskSample/TaskSample/TaskSample.csproj",
+      "projectUniqueName": "/Users/ma_yabin/TaskSample/TaskSample/TaskSample/TaskSample.csproj",
       "projectName": "TaskSample",
-      "projectPath": "/Users/ma_yabin/Projects/TaskSample/TaskSample/TaskSample.csproj",
+      "projectPath": "/Users/ma_yabin/TaskSample/TaskSample/TaskSample/TaskSample.csproj",
       "packagesPath": "/Users/ma_yabin/.nuget/packages/",
-      "outputPath": "/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/",
+      "outputPath": "/Users/ma_yabin/TaskSample/TaskSample/TaskSample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ma_yabin/.config/NuGet/NuGet.Config"
