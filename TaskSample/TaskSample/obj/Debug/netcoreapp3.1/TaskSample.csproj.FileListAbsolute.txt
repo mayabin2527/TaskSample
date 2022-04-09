@@ -1,0 +1,11 @@
+/Users/ma_yabin/Projects/TaskSample/TaskSample/bin/Debug/netcoreapp3.1/TaskSample.deps.json
+/Users/ma_yabin/Projects/TaskSample/TaskSample/bin/Debug/netcoreapp3.1/TaskSample.runtimeconfig.json
+/Users/ma_yabin/Projects/TaskSample/TaskSample/bin/Debug/netcoreapp3.1/TaskSample.runtimeconfig.dev.json
+/Users/ma_yabin/Projects/TaskSample/TaskSample/bin/Debug/netcoreapp3.1/TaskSample.dll
+/Users/ma_yabin/Projects/TaskSample/TaskSample/bin/Debug/netcoreapp3.1/TaskSample.pdb
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.csproj.CoreCompileInputs.cache
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.AssemblyInfoInputs.cache
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.AssemblyInfo.cs
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.dll
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.pdb
+/Users/ma_yabin/Projects/TaskSample/TaskSample/obj/Debug/netcoreapp3.1/TaskSample.genruntimeconfig.cache
