@@ -13,7 +13,15 @@ namespace NETCore_Empty.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
+            List<Slist> l = new List<Slist>();
+            Slist a = new Slist() {title= "item 1" , id= "aaa" };
+
+            ViewBag.List = @"[{title: 'item 1' ,id: 'aaa' }, {title: 'item 2',id: 'bbb' }]";
             return View();
+        }
+        public class Slist {
+            public string title { set; get; }
+            public string id { set; get; }
         }
     }
 }
