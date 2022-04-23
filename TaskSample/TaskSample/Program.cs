@@ -19,7 +19,7 @@ namespace TaskSample
                     Console.WriteLine("Task "+i);
                 }
                 
-                Console.WriteLine("Task 1 Finish");
+                Console.WriteLine("Task 1 Finish--");
             });
             task1.Start();
 

@@ -1,16 +1,17 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{1A60ADA9-57E8-4337-9042-F678516C26BF}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="TaskSample/Program.cs" Line="49" Column="40" />
+      <File FileName="TaskSample/Program.cs" Line="22" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TaskSample" expanded="True" selected="True">
+          <Node name="TaskSample" expanded="True">
             <Node name="TaskSample" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
